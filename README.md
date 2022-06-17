@@ -9,7 +9,7 @@ Cobra Toolbox ([available here](https://github.com/opencobra/cobratoolbox)) and 
 
 ## Matlab Function Descriptions:
 All Matlab Scripts are contained in the *Matlab* folder.
-validation.m - Model against published experimental data.
+Validation_XXX.m - Model against published experimental data for C08 and W05.
 post_processing.m - sampling and remove thermodynamically infeasible internal cycles in the flux distributions from the sampling.
 Models folder - C08 and W05 Cotyledon models
 
