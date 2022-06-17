@@ -16,7 +16,7 @@ Models folder - C08 and W05 Cotyledon models
 
 
 ## Soybean model:
-xml files were downloaded from supplementary material of ([Moereira et al (2019)](https://doi.org/10.1104/pp.19.00122)).
+xml files were downloaded from supplementary material of ([Moreira et al (2019)](https://doi.org/10.1104/pp.19.00122)).
 
 ## Please cite:
 Contador, C.A., Liu, A., Ng, M-S., Ku, Y-S., Chan, S.H.J., Lam, H-M. Metabolic modelling of isoflavone accumulation in wild and cultivated soybean seeds elucidates the role of maternal contribution. (To be submitted)
