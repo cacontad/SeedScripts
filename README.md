@@ -9,8 +9,8 @@ Cobra Toolbox ([available here](https://github.com/opencobra/cobratoolbox)) and 
 
 ## Matlab Function Descriptions:
 All Matlab Scripts are contained in the *Matlab* folder.
-Validation_XX.m - Model against published experimental data for C08 and W05.
-XX_ISO_production_no_maternal.m: isoflavonoid production in C08 and W05 seeds without maternal contribution.
+Validation.m - Model against published experimental data for C08 and W05.
+ISO_production_no_maternal.m: isoflavonoid production in C08 and W05 seeds without maternal contribution.
 post_processing.m - sampling and remove thermodynamically infeasible internal cycles in the flux distributions from the sampling.
 Models folder - C08 and W05 Cotyledon models
 
