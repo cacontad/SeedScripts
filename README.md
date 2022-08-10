@@ -1,5 +1,5 @@
 # SeedScripts
-# Scripts provided for the Paper "Metabolic modelling of isoflavone accumulation in wild and cultivated soybean seeds elucidates the role of maternal contribution"
+# Scripts provided for the Paper "Metabolic modeling of isoflavone accumulation in soybean seeds revealed the role of maternal contribution"
 By Carolina A. Contador, Ailin Liu, Ming-Sin Ng, Yee-Shan Ku, Siu H. J. Chan, and Hon-Ming Lam 
 
 ## The provided scripts require the following tools to be available:
@@ -20,4 +20,4 @@ Models folder - C08 and W05 Cotyledon models
 xml files were downloaded from supplementary material of ([Moreira et al (2019)](https://doi.org/10.1104/pp.19.00122)).
 
 ## Please cite:
-Contador, C.A., Liu, A., Ng, M-S., Ku, Y-S., Chan, S.H.J., Lam, H-M. Metabolic modelling of isoflavone accumulation in wild and cultivated soybean seeds elucidates the role of maternal contribution. (To be submitted)
+Contador, C.A., Liu, A., Ng, M-S., Ku, Y-S., Chan, S.H.J., Lam, H-M. Metabolic modeling of isoflavone accumulation in soybean seeds revealed the role of maternal contribution. (To be submitted)
