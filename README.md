@@ -1,5 +1,5 @@
 # SeedScripts
-# Scripts provided for the Paper "Metabolic modeling to explore factors affecting isoflavone accumulation in soybean seeds"
+# Scripts provided for the Paper "Contextualized metabolic modeling revealed factors affecting isoflavone accumulation in soybean seeds"
 By Carolina A. Contador, Ailin Liu, Ming-Sin Ng, Yee-Shan Ku, Siu H. J. Chan, and Hon-Ming Lam 
 
 ## The provided scripts require the following tools to be available:
