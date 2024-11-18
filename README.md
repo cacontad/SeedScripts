@@ -20,4 +20,5 @@ Models folder - C08 and W05 Cotyledon models
 xml files were downloaded from supplementary material of ([Moreira et al (2019)](https://doi.org/10.1104/pp.19.00122)).
 
 ## Please cite:
-Contador, C.A., Liu, A., Ng, M-S., Ku, Y-S., Chan, S.H.J., Lam, H-M. Contextualized metabolic modeling revealed factors affecting isoflavone accumulation in soybean seeds. (To be submitted)
+Contador, C.A., Liu, A., Ng, M-S., Ku, Y-S., Chan, S.H.J., Lam, H-M. Contextualized metabolic modeling revealed factors affecting isoflavone accumulation in soybean seeds. Plant Cell Environ. 2024 Sep 18.
+doi: 10.1111/pce.15140. Online ahead of print. 
